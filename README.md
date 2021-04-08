@@ -25,4 +25,4 @@ node app
  - pug.js 
 
 ### Web application repository on github
-[link to github repo] (https://github.com/LL-00010414/blog-app.git)
+[link to github repo](https://github.com/LL-00010414/blog-app.git)
