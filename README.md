@@ -6,7 +6,7 @@ To run this application you must follow the instructions below:
 
 1. Clone this repository
 ```bash
-git clone [repository link]
+git clone https://github.com/LL-00010414/blog-app.git
 ```
 
 2. Install dependencies
